@@ -17,3 +17,4 @@ Sneak peek of our plans:
 * ~90 miles battery range
 * Built-in OLED touchscreen display with custom software
 * Custom onboard self-driving
+<img width="937" alt="Screenshot 2024-06-05 at 12 49 03 AM" src="https://github.com/spark-ev/.github/assets/89460630/02b94310-03c1-4611-a216-a454b4e079d4">
