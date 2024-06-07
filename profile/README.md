@@ -7,7 +7,7 @@ We'll be combining skills from various disciplines, including software engineeri
 <p><strong>Do you own a company in a tech-related field, and are interested in sponsoring this project?</strong><br>
 <p>We'd be more than happy to discuss options with you and help out where we can in exchange for a sponsorship.<br>
 Reach out via email at:<br>
-owengregson@berkeley.edu &amp; peterjzhao@berkeley.edu<br></p>
+<a href="mailto:owengregson@berkeley.edu?cc=peterjzhao@berkeley.edu&bcc=owen@owen.lol&subject=Sponsorship%20for%20Spark%20EV">owengregson@berkeley.edu & peterjzhao@berkeley.edu</a><br></p>
 <p>Sneak peek of our plans:</p>
 <ul>
 <li>Two-seater racer/rally car hybrid</li>
