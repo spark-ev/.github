@@ -6,8 +6,12 @@ Our names are Owen Gregson and Peter Zhao.
 We're a team of passionate high-schoolers building an electric car from scratch.
 We'll be combining skills from various disciplines, including software engineering, mechanical engineering, electrical engineering, mechatronics engineering—which integrates these fields—and more, to complete the project.
 
-
 We plan to complete our car by the beginning of our senior year of high school, around late 2025.
+
+**Do you own a company in a tech-related field, and are interested in sponsoring this project?**
+We'd be more than happy to discuss options with you and help out where we can in exchange for a sponsorship.
+Reach out via email at:
+owengregson@berkeley.edu & peterjzhao@berkeley.edu
 
 Sneak peek of our plans:
 
