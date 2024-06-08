@@ -17,4 +17,5 @@ Reach out via email <a href="mailto:owengregson@berkeley.edu?cc=peterjzhao@berke
 <li>Built-in OLED touchscreen display with custom software</li>
 <li>Custom onboard self-driving</li>
 </ul>
-<p><img width="717" alt="Screenshot 2024-06-05 at 12 51 05 AM" src="https://github.com/spark-ev/.github/assets/89460630/4594d69d-fd39-4daf-86fc-9291fdd61f8e"></p>
+<img width="662" alt="Screenshot 2024-06-08 at 3 31 40 PM" src="https://github.com/spark-ev/.github/assets/89460630/37daa041-4364-4ed0-b0bb-e8a7bf8ac141">
+
