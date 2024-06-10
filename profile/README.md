@@ -17,4 +17,5 @@ Reach out via email <a href="mailto:owengregson@berkeley.edu?cc=peterjzhao@berke
 <li>Built-in OLED touchscreen display with custom software</li>
 <li>Custom onboard self-driving</li>
 </ul>
-![cargus v51](https://github.com/spark-ev/.github/assets/89460630/75bb4b6c-1464-47c0-8d73-dfaf2a509567)
+<img width="1000" alt="car render" src="https://github.com/spark-ev/.github/assets/89460630/9f06afee-8d95-4930-9be1-7c2543f810d0">
+
